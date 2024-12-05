@@ -3,7 +3,7 @@
 include_once 'db.class.php';
 
 // хост БД
-define('db_host','localhost');
+define('db_host','localhost:3306');
 
 // Имя БД
 define('db_name','kuznetsovama');
